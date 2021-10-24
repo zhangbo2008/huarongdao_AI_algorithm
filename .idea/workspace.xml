@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee603565-7082-4928-a41f-441b6b8446c4" name="Default Changelist" comment="" />
+    <list default="true" id="ee603565-7082-4928-a41f-441b6b8446c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main_by_numpy3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ztajwY5WT65Br8W8UkJXlFY830" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,7 +44,7 @@
       <recent name="C:\Users\Administrator\PycharmProjects\untitled14" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_by_numpy2">
+  <component name="RunManager" selected="Python.main_by_numpy3">
     <configuration name="213" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled14" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,28 +81,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/333333333.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="untitled14" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,13 +133,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_by_numpy3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled14" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_by_numpy3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_by_numpy3" />
         <item itemvalue="Python.main_by_numpy2" />
         <item itemvalue="Python.333333333" />
         <item itemvalue="Python.213" />
         <item itemvalue="Python.main_by_numpy" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634969977067</updated>
-      <workItem from="1634969978878" duration="36565000" />
+      <workItem from="1634969978878" duration="39192000" />
     </task>
     <servers />
   </component>
@@ -175,46 +183,50 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="565" y="94" key="#xdebugger.evaluate" timestamp="1635060160553">
+    <state x="565" y="94" key="#xdebugger.evaluate" timestamp="1635119313327">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="565" y="94" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1635060160553" />
-    <state width="815" height="460" key="DebuggerActiveHint" timestamp="1635056041063">
+    <state x="565" y="94" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1635119313327" />
+    <state width="868" height="460" key="DebuggerActiveHint" timestamp="1635119166285">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="815" height="460" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1635056041063" />
-    <state width="1237" height="169" key="GridCell.Tab.0.bottom" timestamp="1635072475037">
+    <state width="868" height="460" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1635119166285" />
+    <state width="1237" height="150" key="GridCell.Tab.0.bottom" timestamp="1635119652944">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="169" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1635072475037" />
-    <state width="1237" height="169" key="GridCell.Tab.0.center" timestamp="1635072475037">
+    <state width="1237" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1635119652944" />
+    <state width="1237" height="150" key="GridCell.Tab.0.center" timestamp="1635119652943">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="169" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1635072475037" />
-    <state width="1237" height="169" key="GridCell.Tab.0.left" timestamp="1635072475037">
+    <state width="1237" height="150" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1635119652943" />
+    <state width="1237" height="150" key="GridCell.Tab.0.left" timestamp="1635119652943">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="169" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1635072475037" />
-    <state width="1237" height="169" key="GridCell.Tab.0.right" timestamp="1635072475037">
+    <state width="1237" height="150" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1635119652943" />
+    <state width="1237" height="150" key="GridCell.Tab.0.right" timestamp="1635119652943">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="169" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1635072475037" />
-    <state width="1237" height="114" key="GridCell.Tab.1.bottom" timestamp="1635070547439">
+    <state width="1237" height="150" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1635119652943" />
+    <state width="1237" height="242" key="GridCell.Tab.1.bottom" timestamp="1635119497364">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="114" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1635070547439" />
-    <state width="1237" height="114" key="GridCell.Tab.1.center" timestamp="1635070547439">
+    <state width="1237" height="242" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1635119497364" />
+    <state width="1237" height="242" key="GridCell.Tab.1.center" timestamp="1635119497364">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="114" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1635070547439" />
-    <state width="1237" height="114" key="GridCell.Tab.1.left" timestamp="1635070547439">
+    <state width="1237" height="242" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1635119497364" />
+    <state width="1237" height="242" key="GridCell.Tab.1.left" timestamp="1635119497364">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="114" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1635070547439" />
-    <state width="1237" height="114" key="GridCell.Tab.1.right" timestamp="1635070547439">
+    <state width="1237" height="242" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1635119497364" />
+    <state width="1237" height="242" key="GridCell.Tab.1.right" timestamp="1635119497364">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="114" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1635070547439" />
+    <state width="1237" height="242" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1635119497364" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1635119161032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1635119161032" />
     <state x="267" y="66" width="746" height="548" key="find.popup" timestamp="1634999967271">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -247,6 +259,11 @@
           <url>file://$PROJECT_DIR$/main_by_numpy2.py</url>
           <line>392</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_by_numpy3.py</url>
+          <line>485</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -284,6 +301,7 @@
         <watch expression="arr[3:-1,1:3]" />
         <watch expression="arr[3:,1:3]" />
         <watch expression="a2" />
+        <watch expression="tmp==first" />
       </configuration>
     </watches-manager>
   </component>
@@ -292,6 +310,7 @@
     <SUITE FILE_PATH="coverage/untitled14$main.coverage" NAME="main Coverage Results" MODIFIED="1634982960114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled14$main_by_numpy.coverage" NAME="main_by_numpy Coverage Results" MODIFIED="1635000789007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled14$213.coverage" NAME="213 Coverage Results" MODIFIED="1635001541854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled14$main_by_numpy3.coverage" NAME="main_by_numpy3 Coverage Results" MODIFIED="1635119652922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled14$main_by_numpy2.coverage" NAME="main_by_numpy2 Coverage Results" MODIFIED="1635072475027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

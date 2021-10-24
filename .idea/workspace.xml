@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee603565-7082-4928-a41f-441b6b8446c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ztajwY5WT65Br8W8UkJXlFY830" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\untitled14" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main_by_numpy2">
+    <configuration name="213" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled14" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/213.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="333333333" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled14" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/333333333.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled14" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_by_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled14" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_by_numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_by_numpy2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled14" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_by_numpy2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_by_numpy2" />
+        <item itemvalue="Python.333333333" />
+        <item itemvalue="Python.213" />
+        <item itemvalue="Python.main_by_numpy" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee603565-7082-4928-a41f-441b6b8446c4" name="Default Changelist" comment="" />
+      <created>1634969977067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634969977067</updated>
+      <workItem from="1634969978878" duration="36565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="94" key="#xdebugger.evaluate" timestamp="1635060160553">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="565" y="94" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1635060160553" />
+    <state width="815" height="460" key="DebuggerActiveHint" timestamp="1635056041063">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="815" height="460" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1635056041063" />
+    <state width="1237" height="169" key="GridCell.Tab.0.bottom" timestamp="1635072475037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="169" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1635072475037" />
+    <state width="1237" height="169" key="GridCell.Tab.0.center" timestamp="1635072475037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="169" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1635072475037" />
+    <state width="1237" height="169" key="GridCell.Tab.0.left" timestamp="1635072475037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="169" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1635072475037" />
+    <state width="1237" height="169" key="GridCell.Tab.0.right" timestamp="1635072475037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="169" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1635072475037" />
+    <state width="1237" height="114" key="GridCell.Tab.1.bottom" timestamp="1635070547439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="114" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1635070547439" />
+    <state width="1237" height="114" key="GridCell.Tab.1.center" timestamp="1635070547439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="114" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1635070547439" />
+    <state width="1237" height="114" key="GridCell.Tab.1.left" timestamp="1635070547439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="114" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1635070547439" />
+    <state width="1237" height="114" key="GridCell.Tab.1.right" timestamp="1635070547439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="114" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1635070547439" />
+    <state x="267" y="66" width="746" height="548" key="find.popup" timestamp="1634999967271">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="267" y="66" width="746" height="548" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1634999967271" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_by_numpy2.py</url>
+          <line>265</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_by_numpy2.py</url>
+          <line>279</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_by_numpy2.py</url>
+          <line>392</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="j[0]+i[0]" />
+        <watch expression="i[0]" />
+        <watch expression="i" />
+        <watch expression="[(-1,0),(1,0),(0,-1),(0,1)]" />
+        <watch expression="qipan_demo.shape[0] " />
+        <watch expression="qipan.shape[0] " />
+        <watch expression="qipan.shape[1]" />
+        <watch expression="i==np.array([-1,0])" />
+        <watch expression="new_qipan[before_move_index]" />
+        <watch expression="qipan.shape" />
+        <watch expression="qipan[j[0]+1, j[1] ] " />
+        <watch expression="j" />
+        <watch expression=" j[0]-1&gt;0" />
+        <watch expression="(np.any(np.all(b == a, axis=1)))" />
+        <watch expression="np.all(b == a, axis=1)" />
+        <watch expression="a" />
+        <watch expression="b" />
+        <watch expression="b == a" />
+        <watch expression="np.all(b == a, axis=-1)" />
+        <watch expression="[before_move_index[0]-1,before_move_index[1]" />
+        <watch expression="[before_move_index[0]-1,before_move_index[1]]" />
+        <watch expression="j[1] + 1 &lt; qipan.shape[1]" />
+        <watch expression=" j[1] + 1 " />
+        <watch expression="blank_index" />
+        <watch expression="before_move_index[0] &gt;=0 and before_move_index[0]&lt;qipan.shape[0] and before_move_index[1]&gt;=0 and before_move_index[1]&lt;qipan.shape[1]" />
+        <watch expression="qipan[before_move_index[0]][before_move_index[1]+1]" />
+        <watch expression=" qipan[before_move_index[0]][before_move_index[1] + 1] " />
+        <watch expression="new_qipan" />
+        <watch expression="arr[:2,1:3]" />
+        <watch expression="arr[3:-1,1:3]" />
+        <watch expression="arr[3:,1:3]" />
+        <watch expression="a2" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled14$333333333.coverage" NAME="333333333 Coverage Results" MODIFIED="1635071479041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled14$main.coverage" NAME="main Coverage Results" MODIFIED="1634982960114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled14$main_by_numpy.coverage" NAME="main_by_numpy Coverage Results" MODIFIED="1635000789007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled14$213.coverage" NAME="213 Coverage Results" MODIFIED="1635001541854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled14$main_by_numpy2.coverage" NAME="main_by_numpy2 Coverage Results" MODIFIED="1635072475027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

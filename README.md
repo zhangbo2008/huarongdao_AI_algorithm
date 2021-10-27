@@ -1,7 +1,7 @@
 "# huarongdao_AI_algorithm" 
 
 
-
+```
 
 
 例子: 打印最后从第一部到最后一步的全部过程.
@@ -95,3 +95,4 @@
 ================棋盘切割线=================
 
 Process finished with exit code 0
+```
